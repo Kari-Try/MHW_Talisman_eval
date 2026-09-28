@@ -1,1 +1,0 @@
-# MHW_Talisman_eval
